@@ -8,6 +8,6 @@ Sou um desenvolvedor jr. a procura de melhorar cada vez mais. Atualmente estou e
 
 ### ⚠ Estudos:
 
--HTML (básico), CSS (básico), java (básico), SQL(básico).
+-HTML (básico), CSS (básico), java (básico), SQL(básico), JavaScript(básico).
 
 ##
