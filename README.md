@@ -1,13 +1,10 @@
 # Bom dia, boa tarde, boa noite, me chamo Anderson😎
 
-Sou um desenvolvedor jr. a procura de melhorar cada vez mais. Atualmente estou em busca de um trabalho na área de desenvolvimento e fazendo um curso técnico.
+Trabalhando atualmente na Visioncar como Desenvolvedor jr 💻.
+Sempre em busca de aprender mais 📚.
 
-- Curso Técnico Desenvolvimento de Sistemas, pelo Senai PatoBranco-PR 
+### ⚠ Trabalho:
 
-##
-
-### ⚠ Estudos:
-
--HTML (básico), CSS (básico), java (básico), SQL(básico), JavaScript(básico).
+JAVA | SPRING | SWING | MYSQL | FLUTTER.
 
 ##
