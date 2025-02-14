@@ -1,5 +1,4 @@
 # Bom dia, boa tarde, boa noite
-
 # me chamo Anderson😎
 
 - Trabalhando atualmente na Visioncar como Desenvolvedor jr 💻.
