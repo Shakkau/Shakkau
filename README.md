@@ -7,6 +7,6 @@
 
 ### ⚠ Trabalho:
 
-JAVA | SPRING | SWING | MYSQL | FLUTTER.
+JAVA | SPRING | SWING | MYSQL | FLUTTER | REACT | REACT-NATIVE.
 
 ##
