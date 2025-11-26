@@ -9,9 +9,6 @@
 ## 🔧 Tecnologias e Ferramentas
 Aqui estão as principais stacks que utilizo no dia a dia:
 
-## 🔧 Tecnologias e Ferramentas
-Aqui estão as principais stacks que utilizo no dia a dia:
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
   <a href="https://www.java.com" target="_blank">
