@@ -1,12 +1,12 @@
-# Bom dia, boa tarde, boa noite
-# Me chamo Anderson😎
+# Bom dia, boa tarde, boa noite.
+# Me chamo Anderson!😎
 
-- Trabalhando atualmente na Visioncar como Desenvolvedor jr 💻.
+- Trabalhando atualmente na empresa VisionCar como Desenvolvedor jr 💻.
 
 - Sempre em busca de aprender mais 📚.
 
-### ⚠ Trabalho:
+### ⚠ Linguagens e ferramentas utilizadas atualmente em meu trabalho:
 
-JAVA | SPRING | SWING | MYSQL | FLUTTER | REACT | REACT-NATIVE.
+JAVA | SPRING | SWING | MYSQL | REACT | REACT-NATIVE | JAVASCRIPT | POSTMAN | HÉRCULES | TAILWIND.
 
 ##
