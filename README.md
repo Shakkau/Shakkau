@@ -6,8 +6,7 @@
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
-Aqui estão as principais stacks que utilizo no dia a dia:
+## Tecnologias e Ferramentas que utilizo atualmente:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
@@ -60,6 +59,6 @@ Aqui estão as principais stacks que utilizo no dia a dia:
 
 ---
 
-## 📬 Onde me encontrar
+## Onde me encontrar:
 - LinkedIn: https://www.linkedin.com/in/andersonjljunior
 - Email: Anderson_Junior2@hotmail.com
