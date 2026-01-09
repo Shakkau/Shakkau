@@ -3,6 +3,7 @@
 
 💻 Desenvolvedor Jr na **VisionCar**  
 🚀 Sempre buscando aprender e evoluir
+📚 Cursando Análise em Desenvolvimento de Sistemas - Uninter
 
 ---
 
